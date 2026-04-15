@@ -23,4 +23,19 @@ Every project follows industry best practices expected from a Senior Android Eng
 **All projects are showcased on my portfolio (Repository 2) and tracked on the dashboard (Repository 3).**
 
 **LinkedIn Profile:** https://www.linkedin.com/in/moe-kyaw-aung-2653093a1
-```
+
+# 📊 Senior Developer Dashboard
+
+Internal control center for Moe Kyaw Aung’s senior-level growth.
+
+**Key Features**
+- Live roadmap progress synced from Repository 1
+- GitHub repository health monitoring
+- Daily learning streak counter
+- Phase completion analytics with Recharts
+- Private knowledge base & notes
+
+**Tech Stack:** Next.js 15 App Router, TypeScript, Tailwind, shadcn/ui, Recharts, Supabase (for auth & database later)
+
+**Live URL after deployment:** https://dashboard.moekyawaung.dev (connect via Ver
+cel)
